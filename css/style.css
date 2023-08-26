@@ -27,6 +27,7 @@ p {
 .menu_item {
 	border: 1px solid black;
 	padding:0px;
+	background-color: #899499;;
 }
 
 .menu_item_row{
